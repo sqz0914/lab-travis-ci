@@ -1,6 +1,6 @@
 # nyu-travis-ci
 
-[![Build Status](https://travis-ci.org/sqz0914/nyu-lab-travis-ci.svg?branch=master)](https://travis-ci.org/sqz0914/nyu-lab-travis-ci)
+[![Build Status](https://travis-ci.com/sqz0914/lab-travis-ci.svg?branch=master)](https://travis-ci.com/sqz0914/lab-travis-ci)
 [![codecov](https://codecov.io/gh/sqz0914/lab-travis-ci/branch/master/graph/badge.svg?token=CJCTTAYIWV)](undefined)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
